@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://play99exch.co/sitemap.xml
+Sitemap: https://play99exch.co/images_sitemap.xml
